@@ -1,0 +1,14 @@
+.header > .title{
+    font-family: fantasy;
+    width: 100%;
+    text-align: center;
+    font-size: 3rem;
+    color: white;
+    margin-bottom: 20px;
+  }
+
+.header > .instructions {
+  font-family: fantasy;
+  font-size: 100%;
+  color: white;
+}
